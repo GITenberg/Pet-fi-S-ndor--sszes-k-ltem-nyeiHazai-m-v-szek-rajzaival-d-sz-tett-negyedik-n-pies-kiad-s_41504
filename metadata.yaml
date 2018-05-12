@@ -1,0 +1,34 @@
+_repo: Pet-fi-S-ndor--sszes-k-ltem-nyeiHazai-m-v-szek-rajzaival-d-sz-tett-negyedik-n-pies-kiad-s_41504
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41504-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Petőfi, Sándor
+    aliases:
+    - Петефи, Шандор
+    - Petrovics, Alexander
+    - Petofi, Sandor
+    - Петрович, Олександр
+    - Petrovych, Oleksandr
+    birthdate: 1823
+    deathdate: 1849
+    gutenberg_agent_id: '41207'
+    url: http://www.gutenberg.org/2009/agents/41207
+description: ''
+gutenberg_issued: '2012-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41504'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hungarian poetry'
+- !lcc 'PH'
+title: 'Petőfi Sándor összes költeményei
+
+  Hazai művészek rajzaival díszített negyedik népies kiadás'
+url: http://www.gutenberg.org/ebooks/41504

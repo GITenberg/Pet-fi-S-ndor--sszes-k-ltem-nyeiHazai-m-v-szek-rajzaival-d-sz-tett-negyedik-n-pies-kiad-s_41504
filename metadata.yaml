@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '41207'
     url: http://www.gutenberg.org/2009/agents/41207
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41504#Pet-fi-S-ndor--sszes-k-ltem-nyeiHazai-m-v-szek-rajzaival-d-sz-tett-negyedik-n-pies-kiad-s
 gutenberg_issued: '2012-11-28'
 gutenberg_type: Text
 identifiers:
